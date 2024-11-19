@@ -1,5 +1,6 @@
 # Ramadhani Ahmad
-![Foto Ramadhani Ahmad]([path/ke/foto.jpg](pp.png)
+![Foto Ramadhani Ahmad](pp.png)
+
 📞 +62 812 5297 6514  
 📧 ramadhani.ahmad.basic@gmail.com  
 
