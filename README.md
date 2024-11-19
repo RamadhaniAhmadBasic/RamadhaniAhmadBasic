@@ -1,5 +1,5 @@
 # Ramadhani Ahmad
-![Foto Ramadhani Ahmad](pp.png) {height:200; width: 200}
+<img src="pp.png" alt="Foto Ramadhani Ahmad" height="200">
 
 📞 +62 812 5297 6514  
 📧 ramadhani.ahmad.basic@gmail.com  
