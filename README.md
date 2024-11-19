@@ -31,7 +31,8 @@ Saya adalah mahasiswa aktif yang mempunyai keahlian dalam bidang ilmu komputer t
 
 ## Kemampuan
 **Kemampuan Teknis**:  
-- Desain Grafis: CorelDRAW, CapCut  
+- Desain Grafis: CorelDRAW, CapCut
+- Pemrograman: Python 3, C, PHP, HTML, CSS
 
 **Kemampuan Lunak**:  
 - Kesabaran dan Diligensi  
