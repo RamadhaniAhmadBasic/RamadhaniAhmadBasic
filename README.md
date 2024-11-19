@@ -1,6 +1,6 @@
 # Ramadhani Ahmad
 **📞 +62 812 5297 6514  
-[📧 Alamat Email](mailto:ramadhani.ahmad.basic@gmail.com)**  
+📧 [Alamat Email](mailto:ramadhani.ahmad.basic@gmail.com)**  
 
 ---
 
