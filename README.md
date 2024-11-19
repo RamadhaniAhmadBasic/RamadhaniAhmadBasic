@@ -1,38 +1,32 @@
 # Ramadhani Ahmad
-📞 +62 812 5297 6514  
-📧 ramadhani.ahmad.basic@gmail.com  
+**[Alamat Email](mailto:ramadhani.ahmad.basic@gmail.com) | +62 812 5297 6514 | [GitHub](https://github.com/RamadhaniAhmadBasic)**  
 
 ---
 
-## Tentang Saya
-Saya adalah mahasiswa aktif yang mempunyai keahlian dalam bidang ilmu komputer terutama Desain Grafis. Saya memiliki usaha untuk belajar hal baru, serta bisa bekerja secara efektif baik dalam tim maupun individu. Selain bekerja dalam tim, komunikasi yang saya punya cukup baik untuk membantu pekerjaan. Berorientasi pada diligensi hal-hal yang telah ada dan berdedikasi dalam memecahkan masalah dengan pendekatan kreatif dan efisien.
+## **Profil Singkat**
+Saya adalah Mahasiswa Informatika yang bersemangat dengan minat mendalam pada pengembangan perangkat lunak dan keamanan informasi. Terbiasa bekerja secara mandiri maupun dalam tim dengan kemampuan analisis yang baik, serta selalu siap belajar dan beradaptasi dengan keadaan baru. Berorientasi pada Diligensi dan berdedikasi dalam memecahkan masalah dengan pendekatan kreatif dan efisien.
 
 ---
 
-## Pendidikan
-- **2017 – 2020** | SMP eLKISI MOJOKERTO  
-- **2020 – 2023** | SMA eLKISI MOJOKERTO | Jurusan IPA  
-- **2023 – Sekarang** | Telkom University Surabaya | Prodi Informatika  
+## **Pendidikan**
+**SMP eLKISI MOJOKERTO**
+2020 - 2023  
+
+**SMA eLKISI MOJOKERTO | IPA**
+2020 - 2023  
+
+**TELKOM UNIVERSITY SURABAYA | INFORMATIKA**
+2023 - Sekarang
 
 ---
 
-## Pengalaman
-- **2018 | Membantu eLMART**  
-  - Membantu mengatur inventaris dan memastikan barang diatur sesuai standar.  
-  - Membersihkan dan mengelola inventaris minimarket setiap malam untuk menjaga kebersihan dan kenyamanan pelanggan.  
-
-- **2020 – 2023 | Organisasi OSIS**  
-  - Berpartisipasi sebagai anggota divisi ketakmiran (2020) dan divisi kreativitas (2021 – 2023).  
-  - Menyelenggarakan acara sekolah dengan lebih dari 500 peserta, meningkatkan keterlibatan OSIS.  
+## **Keahlian**
+- **Bahasa Pemrograman:** Python, C
+- **Desain Grafis:** CorelDRAW, CapCut  
 
 ---
 
-## Kemampuan
-**Kemampuan Teknis**:  
-- Desain Grafis: CorelDRAW, CapCut
-- Pemrograman: Python 3, C, PHP, HTML, CSS
-
-**Kemampuan Lunak**:  
-- Kesabaran dan Diligensi  
-- Komunikasi  
-- Kreatifitas Penataan Rak  
+## **Bahasa**
+- Bahasa Jawa: *Native*  
+- Bahasa Indonesia: *Fluent*  
+- Bahasa Inggris: *Fluent*  
