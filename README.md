@@ -27,15 +27,6 @@ Saya adalah Mahasiswa Informatika yang bersemangat dengan minat mendalam pada pe
 
 ---
 
-## **Sertifikasi**
-**Nama Sertifikasi** – *Penerbit Sertifikat*  
-Bulan, Tahun  
-
-**Nama Sertifikasi Lainnya** – *Penerbit Sertifikat*  
-Bulan, Tahun  
-
----
-
 ## **Bahasa**
 - Bahasa Jawa: *Native*  
 - Bahasa Indonesia: *Fluent*  
