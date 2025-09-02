@@ -10,12 +10,6 @@ Saya adalah Mahasiswa Informatika yang bersemangat dengan minat mendalam pada pe
 ---
 
 ## **Pendidikan**
-**SMP eLKISI MOJOKERTO**
-2017 - 2020  
-
-**SMA eLKISI MOJOKERTO | IPA**
-2020 - 2023  
-
 **TELKOM UNIVERSITY SURABAYA | INFORMATIKA**
 2023 - Sekarang
 
