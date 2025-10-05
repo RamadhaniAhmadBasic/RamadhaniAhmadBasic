@@ -1,27 +1,33 @@
-# Ramadhani Ahmad
-**📞 +62 812 5297 6514  
-📧 [ramadhani.ahmad.basic@gmail.com](mailto:ramadhani.ahmad.basic@gmail.com)**  
+About Me
+================================
+Hi, i'm RamadhaniAhmadBasic.
 
----
+Informatics Blacelors | Cybersecurity Enthusiast | Internet Edge Explorer | Tech & Anime Lover
 
-## **Profil Singkat**
-Saya adalah Mahasiswa Informatika yang bersemangat dengan minat mendalam pada pengembangan perangkat lunak dan keamanan informasi. Terbiasa bekerja secara mandiri maupun dalam tim dengan kemampuan analisis yang baik, serta selalu siap belajar dan beradaptasi dengan keadaan baru. Berorientasi pada Diligensi dan berdedikasi dalam memecahkan masalah dengan pendekatan kreatif dan efisien.
+Tech Stack
+--------------------------------
+- **Languages :** C, Python 3, Javascript, PHP, HTML, CSS
+- **Tools :** Sublime Text, VS Code, Sublime Merge, Python 3
+- **Interest :** Cybersecurity, Networking, Web Scraping
 
----
+Currently Learning
+--------------------------------
+- Web & Network Exploitation
+- OSINT & Web Scraping
+- Artificial Intelegence
+- FIle Management & Manipulation
+Goals
+--------------------------------
+- Become a professional Cyersecurity Analist
+- Build and share non-source Cybersecurity tools
+- Freely surfing in Deep Edge of Internet
 
-## **Pendidikan**
-**TELKOM UNIVERSITY SURABAYA | INFORMATIKA**
-2023 - Sekarang
+Connect With Me
+--------------------------------
+[GitHub](https://github.com/RamadhaniAhmadBasic)
+[Gmail](ramadhani.ahmad.basic@gmail.com)
++6281252976514
 
----
 
-## **Keahlian**
-- **Bahasa Pemrograman:** Python, C
-- **Desain Grafis:** CorelDRAW, CapCut  
-
----
-
-## **Bahasa**
-- Bahasa Jawa: *Native*  
-- Bahasa Indonesia: *Fluent*  
-- Bahasa Inggris: *Fluent*  
+> *"Dalam Perjuangan Kita Bertahan, Dalam Ingatan KIta Terabadikan."*
+> - RamadhaniAhmadBasic
