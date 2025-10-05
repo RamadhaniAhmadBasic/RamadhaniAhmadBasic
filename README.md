@@ -1,7 +1,6 @@
 About Me
 ================================
 Hi, i'm RamadhaniAhmadBasic.
-
 Informatics Blacelors | Cybersecurity Enthusiast | Internet Edge Explorer | Tech & Anime Lover
 
 Tech Stack
@@ -16,6 +15,7 @@ Currently Learning
 - OSINT & Web Scraping
 - Artificial Intelegence
 - FIle Management & Manipulation
+
 Goals
 --------------------------------
 - Become a professional Cyersecurity Analist
@@ -26,7 +26,6 @@ Connect With Me
 --------------------------------
 [GitHub](https://github.com/RamadhaniAhmadBasic)
 [Gmail](ramadhani.ahmad.basic@gmail.com)
-+6281252976514
 
 
 > *"Dalam Perjuangan Kita Bertahan, Dalam Ingatan KIta Terabadikan."*
