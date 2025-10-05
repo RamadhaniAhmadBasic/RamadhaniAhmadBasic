@@ -26,7 +26,7 @@ Connect With Me
 --------------------------------
 [GitHub](https://github.com/RamadhaniAhmadBasic)
 [Gmail](ramadhani.ahmad.basic@gmail.com)
-
++6281252976514
 
 > *"Dalam Perjuangan Kita Bertahan, Dalam Ingatan KIta Terabadikan."*
 > - RamadhaniAhmadBasic
